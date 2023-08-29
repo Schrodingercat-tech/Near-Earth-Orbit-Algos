@@ -500,6 +500,4 @@ class PKepler:#algo-65 with initial position and velocity,mean motion rate and m
                       argumentOfPeriapsis=self.PargumenOfPeriapsis,
                       trueAnomaly=self.Panomaly,
                       semiLatusRectum=self.PsemiLatusRectum).getrvECEI()  
-# Orbit determinatin and estimation algos 66-70
 
-# Mission Analysis algos 71-76
